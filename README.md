@@ -1,5 +1,3 @@
-### Deployed at https://pet-health-manager.onrender.com
-This may take a while to load.
 ## Run locally
 ### Run server
 1. Clone repo
